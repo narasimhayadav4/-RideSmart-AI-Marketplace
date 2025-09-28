@@ -58,7 +58,8 @@ The prototype integrates both **mandatory marketplace features** and **AI-powere
 ## 👥 Team Contributions  
 
 - **Narasimha** – Backend APIs, database integration, EMI & fuel cost calculators  
-- **Adarsh** – Frontend development (React.js), UI/UX design, test ride booking module  
+- **Adarsh** – Frontend development (React.js), UI/UX design, test ride booking module
+- **Aakhil** -   QA, Testing, User Validation 
 - **Anshitha** – AI microservices (price estimator & recommendation engine), ML model training  
 - **Ramya** – Data handling and preprocessing, deployment setup (AWS/Netlify), documentation  
 
